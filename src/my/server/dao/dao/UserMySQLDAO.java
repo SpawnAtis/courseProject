@@ -16,7 +16,7 @@ import java.util.List;
  */
 public class UserMySQLDAO implements ElementDAO<User>{
    /* public static void main(String[] args) {
-        User myUser = new User(3,"Loh","Pidr");
+        User myUser = new User(3,"3213","312");
         UserMySQLDAO userMySQLDAO = new UserMySQLDAO();
         userMySQLDAO.add(myUser);
     }*/
